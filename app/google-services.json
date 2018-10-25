@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004548548740",
+    "firebase_url": "https://cabapps-ab59a.firebaseio.com",
+    "project_id": "cabapps-ab59a",
+    "storage_bucket": "cabapps-ab59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004548548740:android:62cb02e92c5bb614",
+        "android_client_info": {
+          "package_name": "com.example.sagor.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004548548740-vv0mlnolqi57d2abgrt70rl0rk4tk42m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagor.cab",
+            "certificate_hash": "8d7f63e9f998fd0cadbcc44e6f75dfaaff42545f"
+          }
+        },
+        {
+          "client_id": "1004548548740-qrlii0oroc74cj5bo0p3iu0tctf4ppc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-dHu9WekQhN6jIEtydtQevpyxcJhQ9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004548548740-qrlii0oroc74cj5bo0p3iu0tctf4ppc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
